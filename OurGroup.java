@@ -16,7 +16,7 @@ public class OurGroup {
 	groupMembers.add("Saengtawan Pitaksin"); //PUT YOUR NAME HERE
 
 	groupMembers.add("Naphat Teerasapanun"); //PUT YOUR NAME HERE
-   
+   }
     public Vector<String> getGroupMembers () {
         return groupMembers;
     }
